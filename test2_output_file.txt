@@ -1,0 +1,61 @@
+10 Seats are made available for reservation
+User 2 reserved seat 1
+User 6 reserved seat 2
+User 13 reserved seat 3
+User 15 reserved seat 4
+User 9 reserved seat 5
+User 13 canceled their reservation
+User 4 reserved seat 3
+User 7 reserved seat 6
+User 8 reserved seat 7
+User 66 reserved seat 8
+Reservations of the Users in the range [10, 100] are released
+User 52 reserved seat 4
+User 41 reserved seat 8
+User 13 reserved seat 9
+User 1 reserved seat 10
+User 14 is added to the waiting list
+User 15 is added to the waiting list
+User 121 is added to the waiting list
+User 161 is added to the waiting list
+User 180 is added to the waiting list
+User 15 priority has been updated to 2
+User 72 is added to the waiting list
+User 81 is added to the waiting list
+User 66 is added to the waiting list
+User 91 is added to the waiting list
+User 99 is added to the waiting list
+User 86 is added to the waiting list
+Additional 10 Seats are made available for reservation
+User 180 reserved seat 11
+User 121 reserved seat 12
+User 81 reserved seat 13
+User 15 reserved seat 14
+User 161 reserved seat 15
+User 72 reserved seat 16
+User 66 reserved seat 17
+User 86 reserved seat 18
+User 14 reserved seat 19
+User 91 reserved seat 20
+Total Seats Available : 0, Waitlist : 1
+Seat 1, User 2
+Seat 2, User 6
+Seat 3, User 4
+Seat 4, User 52
+Seat 5, User 9
+Seat 6, User 7
+Seat 7, User 8
+Seat 8, User 41
+Seat 9, User 13
+Seat 10, User 1
+Seat 11, User 180
+Seat 12, User 121
+Seat 13, User 81
+Seat 14, User 15
+Seat 15, User 161
+Seat 16, User 72
+Seat 17, User 66
+Seat 18, User 86
+Seat 19, User 14
+Seat 20, User 91
+Program Terminated!!

@@ -1,0 +1,37 @@
+4 Seats are made available for reservation
+Total Seats Available : 4, Waitlist : 0
+User 8 reserved seat 1
+User 4 reserved seat 2
+User 5 reserved seat 3
+User 4 canceled their reservation
+User 1 reserved seat 2
+Total Seats Available : 1, Waitlist : 0
+Seat 1, User 8
+Seat 2, User 1
+Seat 3, User 5
+User 3 reserved seat 4
+User 2 is added to the waiting list
+User 6 is added to the waiting list
+Total Seats Available : 0, Waitlist : 2
+User 1 has no reservation for seat 1 to cancel
+User 5 canceled their reservation
+User 6 reserved seat 3
+Total Seats Available : 0, Waitlist : 1
+User 11 is added to the waiting list
+User 9 is added to the waiting list
+Additional 2 Seats are made available for reservation
+User 2 reserved seat 5
+User 9 reserved seat 6
+User 7 is added to the waiting list
+User 8 canceled their reservation
+User 7 reserved seat 1
+Total Seats Available : 0, Waitlist : 1
+Reservations of the Users in the range [8, 10] are released
+User 11 reserved seat 6
+Seat 1, User 7
+Seat 2, User 1
+Seat 3, User 6
+Seat 4, User 3
+Seat 5, User 2
+Seat 6, User 11
+Program Terminated!!
